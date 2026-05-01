@@ -1,6 +1,7 @@
 ---
 layout: page
 title: People
+nav_order: 4
 description: Teams
 ---
 

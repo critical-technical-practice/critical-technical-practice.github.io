@@ -5,7 +5,7 @@ description: >-
     About Critical Technical Practice.
 ---
 
-# About Critical Technical Practice
+# Critical Technical Practice
 {:.no_toc}
 
 ## Table of contents
