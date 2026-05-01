@@ -1,1 +1,1 @@
-# critical-technical-practice.github.io
+# Critical Technical Practice
