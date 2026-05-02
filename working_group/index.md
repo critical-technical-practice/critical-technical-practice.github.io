@@ -7,6 +7,15 @@ description: Working Group on Critical Technical Practice
 
 # A Working Group on Critical Technical Practice
 
+## Working Group Events
+
+{% assign announcements = site.announcements | reverse %}
+{% for announcement in announcements %}
+{{ announcement }}
+{% endfor %}
+
+## Introducing the Working Group on Critical Technical Practice
+
 In May 2026, we start a working group on Critical Technical Practice.
 
 - We want to create a working group to discuss doubts in research and technical practice. 
@@ -24,9 +33,3 @@ The working group is open to all students and faculties in any technical field.
 
 ![critical_technical_practice_poster](../../assets/images/critical_technical_practice_poster.jpg)
 
-## Working Group Events
-
-{% assign announcements = site.announcements | reverse %}
-{% for announcement in announcements %}
-{{ announcement }}
-{% endfor %}
