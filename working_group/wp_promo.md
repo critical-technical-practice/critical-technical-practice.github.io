@@ -31,4 +31,4 @@ From this working group, we will collectively:
 
 The working group is open to all students and faculties in any technical field.
 
-![critical_technical_practice_poster](assets/images/critical_technical_practice_poster.jpg)
+![critical_technical_practice_poster](../../assets/images/critical_technical_practice_poster.jpg)
