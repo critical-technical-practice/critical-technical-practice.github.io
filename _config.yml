@@ -28,10 +28,8 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
-  Slack:
+  Join the Online Community:
     - 'https://join.slack.com/t/critical-technical/shared_invite/zt-3wrhlfyqd-XE7QwLgMYCJkBzIxEi2BjQ'
-  Maillist:
-    - 'mailto:critical-technical-practice@googlegroups.com'
 footer_content:
 
 # Collections for website data
