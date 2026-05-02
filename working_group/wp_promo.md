@@ -5,9 +5,7 @@ parent: Working Group
 nav_order: 7
 ---
 
-# To Computing Science 
-
-**Working Group on Critical Technical Practice**
+# Working Group on Critical Technical Practice
 
 - Is this popular method or benchmark really reliable?
 - Am I doing the right thing by following a conventional practice in research and technical development?
@@ -33,4 +31,4 @@ From this working group, we will collectively:
 
 The working group is open to all students and faculties in any technical field.
 
-![Alt text](critical_technical_practice_poster.jpg)
+![critical_technical_practice_poster](assets/images/critical_technical_practice_poster.jpg)
