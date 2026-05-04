@@ -13,8 +13,13 @@ One goal of critical technical practice is to have collective actions in the tec
 For the outcome of this work, we aims to provide practical tools and methods to technical and non-technical audiences including the general public to critically inspect a given technology. Technical audiences can use the tools and methods in their own technical work. And stakeholders and the public can use the tools and methods to effectively oversight and criticize technologies. 
 The outcome format can be tutorials, courses, reports, checklists, etc. in both technical and non-technical versions. 
 
+## Table of contents
+{: .no_toc .text-delta }
+
 1. TOC
 {:toc}
+
+---
 
 ## A preliminary method of conducting critical technical practice 
 
