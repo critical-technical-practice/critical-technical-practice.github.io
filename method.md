@@ -6,12 +6,15 @@ description: Methods of critical technical practice.
 ---
 
 # Methods of conducting critical technical practice
+{:.no_toc}
 
 One goal of critical technical practice is to have collective actions in the technical community and the civil society to accumulate collective power to check and balance power from the for-profit sector, which is the root problem in technical practice. To do so, we aim to accumulate and summarize experience, knowledge, and methodology during our collective actions of critical technical practice, which will be presented here. This is an ongoing work. 
 
 For the outcome of this work, we aims to provide practical tools and methods to technical and non-technical audiences including the general public to critically inspect a given technology. Technical audiences can use the tools and methods in their own technical work. And stakeholders and the public can use the tools and methods to effectively oversight and criticize technologies. 
 The outcome format can be tutorials, courses, reports, checklists, etc. in both technical and non-technical versions. 
 
+1. TOC
+{:toc}
 
 ## A preliminary method of conducting critical technical practice 
 
@@ -30,26 +33,26 @@ A straight forward approach I use is:
 
 1. **Grasp the doubt** that you raised, no matter how trivial or vague it can be 
 
-For example, the [XAI-plausibility](https://arxiv.org/abs/2303.17707) work starts from an uncomfortable feeling I had when interviewing a doctor in our [clinical user study](https://www.sciencedirect.com/science/article/abs/pii/S0933365723002658), where the doctor mentioned he would trust the AI prediction but only I knew that the prediction was an incorrect one. I grasped my doubt and realized that the popular evaluation metric for explainable AI of plausibility is problematic. Then I began to develop the [XAI-plausibility](https://arxiv.org/abs/2303.17707) work. 
-
-From this work, especially Theorem 2, I began to realize that it actually states a totally different objective of AI, compared to the existing mainstream objective of AI to outperform humans. This doubt about the mainstream objective of AI motivated me to closely and critically inspect it, which resulted in the [AI-imagination](https://arxiv.org/abs/2503.08720) paper. 
-
-The [Ethical-MISyn](https://arxiv.org/abs/2508.09293) work started from a discussion where I doubted about the clinical realism and the lack of incorporating enough clinical knowledge of the synthetic images. Then it gradually becomes the current paper to discuss how to ethically develop medical image synthesis techniques. 
+    For example, the [XAI-plausibility](https://arxiv.org/abs/2303.17707) work starts from an uncomfortable feeling I had when interviewing a doctor in our [clinical user study](https://www.sciencedirect.com/science/article/abs/pii/S0933365723002658), where the doctor mentioned he would trust the AI prediction but only I knew that the prediction was an incorrect one. I grasped my doubt and realized that the popular evaluation metric for explainable AI of plausibility is problematic. Then I began to develop the [XAI-plausibility](https://arxiv.org/abs/2303.17707) work. 
+    
+    From this work, especially Theorem 2, I began to realize that it actually states a totally different objective of AI, compared to the existing mainstream objective of AI to outperform humans. This doubt about the mainstream objective of AI motivated me to closely and critically inspect it, which resulted in the [AI-imagination](https://arxiv.org/abs/2503.08720) paper. 
+    
+    The [Ethical-MISyn](https://arxiv.org/abs/2508.09293) work started from a discussion where I doubted about the clinical realism and the lack of incorporating enough clinical knowledge of the synthetic images. Then it gradually becomes the current paper to discuss how to ethically develop medical image synthesis techniques. 
 
 2. Given the statement you doubt about, **identify its underlying assumptions and justifications for the assumptions**
 
-Basically this process is to keep asking “why”: why this statement that I doubt about is generally accepted in the technical community? What are the underlying rationales that justify it? Then what are the underlying assumptions for these rationales? Etc. This process is similar to the scientific inquiry process that to continue ask why for a phenomenon. 
-
-By doing this recursive reflection, we gradually expose the fundamental assumptions about our values, beliefs, and worldviews that are usually running in the background, are taken for granted, and haven’t been critically inspected.
-
-For example, the [XAI-plausibility](https://arxiv.org/abs/2303.17707) work targets and refute the common rationales that support using plausibility to evaluate XAI algorithms. The [AI-imagination](https://arxiv.org/abs/2503.08720) work provides counterarguments that defend against the prevailing assumptions of the outperforming human objective of AI. 
+    Basically this process is to keep asking “why”: why this statement that I doubt about is generally accepted in the technical community? What are the underlying rationales that justify it? Then what are the underlying assumptions for these rationales? Etc. This process is similar to the scientific inquiry process that to continue ask why for a phenomenon. 
+    
+    By doing this recursive reflection, we gradually expose the fundamental assumptions about our values, beliefs, and worldviews that are usually running in the background, are taken for granted, and haven’t been critically inspected.
+    
+    For example, the [XAI-plausibility](https://arxiv.org/abs/2303.17707) work targets and refute the common rationales that support using plausibility to evaluate XAI algorithms. The [AI-imagination](https://arxiv.org/abs/2503.08720) work provides counterarguments that defend against the prevailing assumptions of the outperforming human objective of AI. 
 
 3. Conduct a **critical examination** on the identified assumptions and justifications.
 
-We can use multiple approaches to critically examine the assumptions and justifications. For example, by referring to the existing knowledge that has debated on the subject (which may or may not be within the technical domain), by conducting empirical studies and computational experiments, or by keeping it as an open question and no longer take the assumptions and justifications at their face value, etc. 
-
-For example, in the [XAI-plausibility](https://arxiv.org/abs/2303.17707) work, we have logic reasoning, proofs, empirical data analysis, and simulation experiment to construct our thesis. 
-In the [AI-imagination](https://arxiv.org/abs/2503.08720) work, we draw on multidisplinary theories from epistemology and the philosophy of science, social science, feminist and critical theory, work justice, and economics to construct our counterarguments.
+    We can use multiple approaches to critically examine the assumptions and justifications. For example, by referring to the existing knowledge that has debated on the subject (which may or may not be within the technical domain), by conducting empirical studies and computational experiments, or by keeping it as an open question and no longer take the assumptions and justifications at their face value, etc. 
+    
+    For example, in the [XAI-plausibility](https://arxiv.org/abs/2303.17707) work, we have logic reasoning, proofs, empirical data analysis, and simulation experiment to construct our thesis. 
+    In the [AI-imagination](https://arxiv.org/abs/2503.08720) work, we draw on multidisplinary theories from epistemology and the philosophy of science, social science, feminist and critical theory, work justice, and economics to construct our counterarguments.
 
 ### Assumptions of my approach 
 
