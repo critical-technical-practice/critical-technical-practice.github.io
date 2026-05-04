@@ -7,12 +7,13 @@ description: Reading List of critical technical practice.
 
 
 # Related readings for critical technical practice
+{:.no_toc}
 
 We provide some related readings from our own reading experience and perspective that greatly influence the worldviews and values to conduct critical technical practice. 
 
 The reading list was curated by Weina Jin. Last update: 2026-05-01
 
-{:.no_toc}
+
 
 
 ## Table of contents
