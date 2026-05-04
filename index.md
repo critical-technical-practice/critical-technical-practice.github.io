@@ -1,5 +1,12 @@
-
-## What is Critical Technical Practice and why is it important?
+---
+layout: home
+title: Critical Technical Practice
+nav_exclude: true
+permalink: /:path/
+seo:
+  type: Research 
+  name: Critical Technical Practice
+---
 
 "**Critical technical practice**" is the systematic and collective approach to critically inspect assumptions and justifications in common technical practices, and understand weaknesses, flaws, and boundaries of a technique, analogous to strengthening our technical “**immune system**”.
 
@@ -13,8 +20,6 @@ If you are interested in carrying out critical technical practice in your own wo
 1. joining the online slack community, 
 2. joining our ongoing [working group](working_group). We hope to accumulate more collective efforts to push forward this initiative, which aims to make our technical work more scientifically rigorous, responsible, meaningful, and beneficial to stakeholders and the public. 
 
-
-## Working Group Events
 
 {% assign announcements = site.announcements | reverse %}
 {% for announcement in announcements %}
