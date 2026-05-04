@@ -1,12 +1,17 @@
 ---
 layout: page
-title: Readling List
+title: Reading List
 nav_order: 4
-description: Readling List of critical technical practice.
+description: Reading List of critical technical practice.
 ---
 
 
-# Readings for a critical mindset
+# Related readings for critical technical practice
+
+We provide some related readings from our own reading experience and perspective that greatly influence the worldviews and values to conduct critical technical practice. 
+
+The reading list was curated by Weina Jin. Last update: 2026-05-01
+
 {:.no_toc}
 
 

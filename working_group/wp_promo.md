@@ -25,8 +25,8 @@ Skepticism and self-correction are the core features that make science robust an
 "**Critical technical practice**" denotes the systematic approach to critically inspect assumptions and justifications in common technical practices, and understand weaknesses, flaws, and boundaries of a technique, analogous to strengthening our technical “**immune system**”.
 
 From this working group, we will collectively:
-- Inspect the underlying assumptions and justifications in a certain aspect of technical practice that you doubt about 
-- Develop practical tools and methodologies of conducting critical technical practice/inspections for technical and non-technical audiences and the public 
+- Inspect the underlying assumptions and justifications in a certain aspect of technical practice that you doubt about.
+- Develop practical tools and methodologies of conducting critical technical practice/inspections for technical and non-technical audiences and the public.
 
 
 The working group is open to all students and faculties in any technical field.
