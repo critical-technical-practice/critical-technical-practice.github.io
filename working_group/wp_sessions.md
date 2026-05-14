@@ -23,3 +23,27 @@ nav_order: 2
 - [Slides](assets/files/20260513_CriticalTechnicalPractice_session1.pdf)
 - [Video recording](https://youtu.be/qf0h2t-7e7c?si=u4v54sItgHzjL-G7)
 
+
+This working group is for people who:
+
+- Want to get support to tackle the doubts in research and technical practice 
+- Want to get support to improve the sense of meaning regarding the technical and research agendas and purposes
+- Want to increase the real-world contribution from one’s technical professional 
+
+
+ The **goals** of the working group:
+
+- Conduct critical examinations and improve the critical reflections of group members’ own technical work or technical field 
+	- Outcomes: some inspiration, alternative perspectives of understanding technology, side projects, or improvements in your existing projects, etc. 
+- Interested group members work together to summarize our critical technical practice experience/processes as formal methods that can be taught and delivered to technical and non-technical audiences 
+	- Outcomes: tutorials, courses, toolkits, website, papers, etc. 
+- 
+
+**Tentative format** of the working group:
+
+- Group members bring each doubt and skepticism in each own research and technical practice into critical discussion and feedback
+- Each time we present some examples of critical analysis, regarding the technical problem formation, design, evaluation, deployment
+
+**Duration**:
+- Summer 2026, can be extended depending on participants’ interest 
+- Meet biweekly 
