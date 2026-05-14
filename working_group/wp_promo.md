@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Working Group Promotional Materials
+title: Working Group Promotion
 parent: Working Group
 nav_order: 7
 ---
@@ -31,4 +31,4 @@ From this working group, we will collectively:
 
 The working group is open to all students and faculties in any technical field.
 
-![critical_technical_practice_poster](../../assets/images/critical_technical_practice_poster.jpg)
+![critical_technical_practice_poster](../../assets/images/critical_technical_practice_poster_2026summer.jpg)

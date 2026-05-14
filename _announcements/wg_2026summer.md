@@ -1,11 +1,11 @@
 ---
-title: Working Group Kickoff Sessions
+title: Working Group Wed Biweekly Sessions
 date: 2026-05-06
 ---
 
 Join our Wednesday biweekly sessions of the [Working Group on Critical Technical Practice](https://critical-technical-practice.github.io/working_group/)
 
-On Wednesdays, 1:00-2:00 pm on these dates:
+Wednesdays, 1:00-2:00 pm on these dates:
 - May 27, 2026
 - June 10, 2026
 - June 24, 2026

@@ -1,0 +1,53 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Critical technical practice working group
+X-WR-TIMEZONE:America/Vancouver
+X-WR-CALDESC:Meeting schedule for critical technical practice working group
+BEGIN:VTIMEZONE
+TZID:America/Vancouver
+X-LIC-LOCATION:America/Vancouver
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/Vancouver:20260527T130000
+DTEND;TZID=America/Vancouver:20260527T140000
+RRULE:FREQ=WEEKLY;WKST=MO;UNTIL=20260903T065959Z;INTERVAL=2;BYDAY=WE
+DTSTAMP:20260514T002219Z
+UID:27i423lge02p0pb4b1ttc5s3n5@google.com
+CREATED:20260513T233718Z
+DESCRIPTION:Join in-person at TASC1 8003\, SFU Burnaby campus\, <br>or via 
+ Zoom link: <a href="https://sfu.zoom.us/j/87914587556?pwd=CbtjaLsYIX065xn4W
+ W5Aubm3zWkOIN.1">https://sfu.zoom.us/j/87914587556?pwd=CbtjaLsYIX065xn4WW5A
+ ubm3zWkOIN.1</a><br><br>For details of the working group\, see: <a href="ht
+ tps://critical-technical-practice.github.io/">https://critical-technical-pr
+ actice.github.io/</a>
+LAST-MODIFIED:20260513T233719Z
+LOCATION:TASC1 8003\, Technology and Science Complex 1\, Burnaby\, BC V5A 1
+ S6\, Canada
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Working group on critical technical practice
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P0DT0H5M0S
+DESCRIPTION:This is an event reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR

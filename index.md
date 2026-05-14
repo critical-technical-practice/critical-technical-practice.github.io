@@ -18,7 +18,8 @@ Some examples of critical technical practice are listed on the [Example](example
 
 If you are interested in carrying out critical technical practice in your own work, or contributing to this initiative to co-develop [methods and tools for critical technical practice](method.md), please consider:
 1. joining the online slack community, 
-2. joining our ongoing [working group](working_group). We hope to accumulate more collective efforts to push forward this initiative, which aims to make our technical work more scientifically rigorous, responsible, meaningful, and beneficial to stakeholders and the public. 
+2. joining our ongoing [working group](working_group). We hope to accumulate more collective efforts to push forward this initiative, which aims to make our technical work more scientifically rigorous, responsible, meaningful, and beneficial to stakeholders and the public. [Download the working group calendar event](/assets/files/critical_technical_practice_working_group_calendar.ics)
+
 
 
 {% assign announcements = site.announcements | reverse %}
