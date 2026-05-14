@@ -33,6 +33,8 @@ We categorize these works by their location in the sociotechnical system, as sho
 - [Stop treating \`AGI' as the north-star goal of AI research](https://arxiv.org/abs/2502.03689). Borhane Blili-Hamelin, et al. 2025.  
 - [Large Models of What? Mistaking Engineering Achievements for Human Linguistic Agency](https://www.sciencedirect.com/science/article/pii/S0388000124000615). Abeba Birhane, Marek McGann. 2024.
 - [The Impossibility of Automating Ambiguity](https://ieeexplore.ieee.org/abstract/document/10302088). Abeba Birhane, et al. 2021.  
+- [What is "critical" about critical design?](https://dl.acm.org/doi/10.1145/2470654.2466451) Jeffrey Bardzell, Shaowen Bardzell. 2013.
+
 
 
 # Critically examine the institutional arragements and paradigms in technical practices

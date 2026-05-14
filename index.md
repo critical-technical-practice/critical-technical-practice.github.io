@@ -26,4 +26,4 @@ If you are interested in carrying out critical technical practice in your own wo
 {{ announcement }}
 {% endfor %}
 
-![critical_technical_practice_poster](assets/images/critical_technical_practice_poster.jpg)
+![critical_technical_practice_poster](assets/images/critical_technical_practice_poster_2026summer.jpg)

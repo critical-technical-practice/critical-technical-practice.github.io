@@ -28,7 +28,7 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
-  Join the Online Community:
+  Join the Slack Online Community:
     - 'https://join.slack.com/t/critical-technical/shared_invite/zt-3wrhlfyqd-XE7QwLgMYCJkBzIxEi2BjQ'
 footer_content:
 
