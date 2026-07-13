@@ -1,8 +1,9 @@
 ---
 layout: page
 title: Critical Technical Practice for Responsible Medical Image Analysis
-parent: Methods of Critical Technical Practice
+parent: Method
 nav_order: 3
+last_modified_date: 2026-07-13
 ---
 
 ## Table of contents
