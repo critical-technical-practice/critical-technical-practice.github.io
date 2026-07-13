@@ -21,7 +21,7 @@ By Weina Jin (weinaj@sfu.ca)
 
 **TL;DR**
 
-Critical technical practice can to safeguard our good intentions in medical image analysis against unscientific and unethical assumptions and values, analogous to strengthening our technical immune systems. 
+Critical technical practice can safeguard our good intentions in medical image analysis against unscientific and unethical assumptions and values, analogous to strengthening our technical immune systems. 
 
   
 
