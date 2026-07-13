@@ -6,15 +6,8 @@ nav_order: 3
 last_modified_date: 2026-07-13
 ---
 
-## Table of contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
-
----
-
 # Critical Technical Practice for Responsible Medical Image Analysis
+{: .no_toc .text-delta }
 
 By Weina Jin (weinaj@sfu.ca)
 
@@ -24,11 +17,13 @@ By Weina Jin (weinaj@sfu.ca)
 
 Critical technical practice can safeguard our good intentions in medical image analysis against unscientific and unethical assumptions and values, analogous to strengthening our technical immune systems. 
 
-  
 
 **Abstract**
 
 In this article, I motivate the need for critical technical practice using my research experience in conducting AI technical research on explainable AI for medical image analysis. I summarize the different levels of approaches to conduct critical technical practice, and propose ways forward to collectively conduct critical technical practice to make our techniques more scientifically rigorous, ethical, and responsible.
+
+1. TOC
+{:toc}
 
 ## Does good intentions of tech for healthcare guarantee good outcomes?
 
