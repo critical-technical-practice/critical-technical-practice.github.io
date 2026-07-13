@@ -28,7 +28,7 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
-  Join the Slack Online Community:
+  Join CTP Online Community on Slack:
     - 'https://join.slack.com/t/critical-technical/shared_invite/zt-3wrhlfyqd-XE7QwLgMYCJkBzIxEi2BjQ'
 footer_content:
 
