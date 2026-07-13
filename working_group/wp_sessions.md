@@ -17,9 +17,6 @@ nav_order: 2
 
 [Video list](https://www.youtube.com/playlist?list=PL70l59WQYfiAioegAiaGtO7AEKainDOTW)
 
-[Subscribe the working group calendar](https://calendar.google.com/calendar/ical/9f7a613929bc43db20b28b84a8db1ab85fc5f0bce03a9edbefa896d3b735ab4d%40group.calendar.google.com/public/basic.ics)
-
-[Download the working group calendar event](../../assets/files/critical_technical_practice_working_group_calendar.ics)
 
 ## Session 1: Critical Technical Practice: Motivation and Methods
 

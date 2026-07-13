@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Examples
-nav_order: 2
+nav_order: 3
 description: Examples of critical technical practice.
 ---
 
@@ -22,7 +22,7 @@ We categorize these works by their location in the sociotechnical system, as sho
 
 ---
 
-# Critically examine the assumptions, values, and worldviews in technical practices
+# Critically examine the philosophical assumptions, values, and worldviews in technical practices
 
 - [Toward a Critical Technical Practice](https://pages.gseis.ucla.edu/faculty/agre/critical.html). Phil Agre. 1997
 - [The Values Encoded in Machine Learning Research](https://dl.acm.org/doi/10.1145/3531146.3533083). Abeba Birhane, et al. 2022.  
@@ -52,6 +52,8 @@ We categorize these works by their location in the sociotechnical system, as sho
 - [Why is plausibility surprisingly problematic as an XAI criterion?](https://arxiv.org/abs/2303.17707) Weina Jin, et al. 2025.  
 - [Leakage and the reproducibility crisis in machine-learning-based science](https://www.sciencedirect.com/science/article/pii/S2666389923001599). Sayash Kapoor, Arvind Narayanan. 2023.
 - [Why We Must Rethink Empirical Research in Machine Learning](https://arxiv.org/abs/2405.02200). Moritz Herrmann, et al. 2024
+- [The Fallacy of AI Functionality](dl.acm.org/doi/fullHtml/10.1145/3531146.3533158). Raji, et al. 2022.
+- [Are We Learning Yet? A Meta Review of Evaluation Failures Across Machine Learning](https://openreview.net/forum?id=mPducS1MsEK). Liao, et al. 2021.
 
 
 # Identify and understand the limitations and weaknesses of techniques

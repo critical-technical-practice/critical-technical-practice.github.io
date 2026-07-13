@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Working Group
-nav_order: 1
+nav_order: 2
 description: Working Group on Critical Technical Practice
 ---
 
@@ -32,8 +32,6 @@ From this working group, we will collectively:
 The working group is open to all students and faculties in any technical field.
 
 [Subscribe the working group calendar](https://calendar.google.com/calendar/ical/9f7a613929bc43db20b28b84a8db1ab85fc5f0bce03a9edbefa896d3b735ab4d%40group.calendar.google.com/public/basic.ics)
-
-[Download the working group calendar event](../../assets/files/critical_technical_practice_working_group_calendar.ics)
 
 <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=America%2FVancouver&showPrint=0&src=OWY3YTYxMzkyOWJjNDNkYjIwYjI4Yjg0YThkYjFhYjg1ZmM1ZjBiY2UwM2E5ZWRiZWZhODk2ZDNiNzM1YWI0ZEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23a79b8e" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
