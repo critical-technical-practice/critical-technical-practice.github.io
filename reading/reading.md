@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Reading List
-nav_order: 4
+title: Readings
+nav_order: 2
+parent: Examples and Readings
 description: Reading List of critical technical practice.
 ---
 

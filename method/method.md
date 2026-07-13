@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Methods of Critical Technical Practice
-parent: Method
+parent: Methods
 nav_order: 2
 description: Methods of critical technical practice.
 ---

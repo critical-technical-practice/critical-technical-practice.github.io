@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Examples
-nav_order: 3
+parent: Examples and Readings
+nav_order: 1
 description: Examples of critical technical practice.
 ---
 
@@ -12,7 +13,7 @@ This is a growing list of examples to show the conduct of critical technical pra
 
 We categorize these works by their location in the sociotechnical system, as shown by the tree illustration.
 
-![sociotechnical_system](assets/images/tree.jpg)
+![sociotechnical_system](../assets/images/tree.jpg)
 
 ## Table of contents
 {: .no_toc .text-delta }

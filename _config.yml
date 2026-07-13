@@ -21,8 +21,10 @@ baseurl:  # the subpath of your site, e.g. /blog
 url: 'https://critical-technical-practice.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
-# Set a path/url to a logo that will be displayed instead of the title
-logo: "/assets/images/ctp_logo.png"
+
+
+favicon_ico: "/assets/images/ctp_logo.ico"
+
 
 # Theme settings
 remote_theme: just-the-docs/just-the-docs@v0.12.0

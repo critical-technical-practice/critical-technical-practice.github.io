@@ -8,13 +8,13 @@ seo:
   name: Critical Technical Practice
 ---
 
-"**Critical technical practice**" is the systematic and collective approach to critically inspect assumptions and justifications in common technical practices, and understand weaknesses, flaws, and boundaries of a technique, analogous to strengthening our technical “**immune system**”.
+"**Critical technical practice**" (CTP) is the systematic and collective approach to critically inspect assumptions and justifications in common technical practices, and understand weaknesses, flaws, and boundaries of a technique, analogous to strengthening our technical “**immune system**”.
 
 Skepticism and self-correction are the core features that make science robust and reliable. Similarly, conducting critical technical practice can make our techniques more scientifically rigorous, just, and responsible. 
 
 A more detailed introduction of critical technical practice is on the [About](about.md) page.
 
-Some examples of critical technical practice are listed on the [Example](example.md) page. The methods of conducting critical technical practice is in the [Method](method/method.md) page.
+Some examples of critical technical practice are listed on the [Example](reading/example.md) page. The methods of conducting critical technical practice is in the [Method](method/method.md) page.
 
 If you are interested in carrying out critical technical practice in your own work, or contributing to this initiative to co-develop [methods and tools for critical technical practice](method/method.md), please consider:
 1. joining the online slack community, 
