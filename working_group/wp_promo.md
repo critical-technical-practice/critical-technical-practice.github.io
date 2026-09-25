@@ -31,6 +31,8 @@ From this working group, we will collectively:
 
 The working group is open to all students and faculties in any technical field.
 
-The poster source design file is available at [here](https://docs.google.com/drawings/d/145yIHcDS_f7qgX8tMpKY9XU2Kg3mwv4vyRZAQkkcFy4/edit?usp=sharing). Please feel free to edit and share it to promote your own working group, as suggested [here](https://critical-technical-practice.github.io/method/ctp_mia/#actionable-ideas-for-critical-technical-practice), or [svg format](../../assets/tutorial/critical_technical_practice_poster.svg).
-
 ![critical_technical_practice_poster](../../assets/images/critical_technical_practice_poster_2026summer.jpg)
+
+---
+
+The poster source design file is available at [here](https://docs.google.com/drawings/d/145yIHcDS_f7qgX8tMpKY9XU2Kg3mwv4vyRZAQkkcFy4/edit?usp=sharing), or downloadable in [svg format](../../assets/tutorial/critical_technical_practice_poster.svg). Please feel free to edit and share it to promote your own working group (as suggested [here](https://critical-technical-practice.github.io/method/ctp_mia/#actionable-ideas-for-critical-technical-practice)).

@@ -20,11 +20,3 @@ If you are interested in carrying out critical technical practice in your own wo
 1. joining the online slack community, 
 2. joining our ongoing [working group](working_group). We hope to accumulate more collective efforts to push forward this initiative, which aims to make our technical work more scientifically rigorous, responsible, meaningful, and beneficial to stakeholders and the public.
 
-
-
-{% assign announcements = site.announcements | reverse %}
-{% for announcement in announcements %}
-{{ announcement }}
-{% endfor %}
-
-![critical_technical_practice_poster](assets/images/critical_technical_practice_poster_2026summer.jpg)
