@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Working Group Promotion
+title: Working Group Promotional Material
 parent: Working Group
-nav_order: 7
+nav_order: 1
 ---
 
 # Working Group on Critical Technical Practice
@@ -30,5 +30,7 @@ From this working group, we will collectively:
 
 
 The working group is open to all students and faculties in any technical field.
+
+The poster source design file is available at [here](https://docs.google.com/drawings/d/145yIHcDS_f7qgX8tMpKY9XU2Kg3mwv4vyRZAQkkcFy4/edit?usp=sharing). Please feel free to edit and share it to promote your own working group, as suggested [here](https://critical-technical-practice.github.io/method/ctp_mia/#actionable-ideas-for-critical-technical-practice), or [svg format](../../assets/tutorial/critical_technical_practice_poster.svg).
 
 ![critical_technical_practice_poster](../../assets/images/critical_technical_practice_poster_2026summer.jpg)
